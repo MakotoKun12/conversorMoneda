@@ -1,5 +1,8 @@
 # Conversor de Monedas
 
+![Badge-Conversor](https://github.com/MakotoKun12/conversorMoneda/assets/121250940/7d110734-4db0-4754-be02-bebbeb1f9d0e)
+
+
 Este proyecto es una aplicación de conversión de monedas que utiliza la API de ExchangeRate-API para obtener las tasas de conversión entre diferentes monedas. El proyecto incluye dos maneras distintas de realizar la conversión.
 
 ## Descripción
